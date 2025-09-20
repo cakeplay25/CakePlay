@@ -12,9 +12,15 @@ The greatest success would be if the finished product is also integrated as a fe
 This is primarily just the idea of one person who is enthusiastic about such games as well as about CakeWallet.
 This person is not a developer but is motivated to make this project become real, and GitHub is the first step.
 
-#Call for Support
+#Donation
 
 Feel free to help make the project a reality by donating cryptocurrency, which will be used to pay developers directly.
+
+Clearweb:
+https://trocador.app/anonpay/?ticker_to=xmr&network_to=Mainnet&address=48of7ygJEgEPpKFvzdwCy8ityuWvnisK5cv2AK934sxkFtTMgfeyWLkHeZUTBchFKWUAjKuVaacjn4Us7muX3V5PPLmqx6a&donation=True&simple_mode=True&amount=0.0001&name=CakePlay&description=CakePlay&email=cakeplay@proton.me&ref=dGJiuTPgbo&bgcolor=00000000
+
+Tor:
+http://trocadorfyhlu27aefre5u7zri66gudtzdyelymftvr4yjwcxhfaqsid.onion/anonpay/?ticker_to=xmr&network_to=Mainnet&address=48of7ygJEgEPpKFvzdwCy8ityuWvnisK5cv2AK934sxkFtTMgfeyWLkHeZUTBchFKWUAjKuVaacjn4Us7muX3V5PPLmqx6a&donation=True&simple_mode=True&amount=0.0001&name=CakePlay&description=CakePlay&email=cakeplay@proton.me&ref=dGJiuTPgbo&bgcolor=00000000
 
 #Open Invitation
 
