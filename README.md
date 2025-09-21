@@ -8,11 +8,7 @@ The goal of the project is to make logic games like Connect Four and Chess acces
 
 The project is called CakePlay, as a reference to the project CakePay by CakeLabs, which is integrated as a feature in their CakeWallet.
 
-https://cakepay.com
-
-https://cakelabs.com
-
-https://cakewallet.com
+https://github.com/cake-tech/cake_wallet
 
 The greatest success would be if the finished product is also integrated as a feature in CakeWallet, in order to inspire more people to use CakeWallet through these games.
 
