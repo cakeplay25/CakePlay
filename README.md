@@ -31,6 +31,12 @@ These apps dangled the illusion of big wins, but in reality, they were little mo
 Since I’ve been deeply involved in the world of cryptocurrencies for years, the idea naturally struck me:
 What if there were a way to play games and actually win something of real value?
 
+Currently, we are playing through this website:
+https://papergames.io
+
+They are funded through advertisements and have their own in-game currency.
+Replacing these in-game currencies with cryptocurrencies and establishing a seamless wallet integration would be a dream.
+
 This is primarily just the idea of one person who is enthusiastic about such games as well as about CakeWallet.
 
 I am not a developer but i am motivated to make this project become real, and GitHub is the first step.
