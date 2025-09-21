@@ -2,6 +2,8 @@
 
 The goal of the project is to make logic games like Connect Four and Chess accessible to players by allowing them to use cryptocurrency as a stake, with the winner of the game receiving this stake.
 
+![Screenshot](https://raw.githubusercontent.com/cakeplay25/CakePlay/refs/heads/main/IMG_20250921_164710_865.jpg?token=GHSAT0AAAAAADLTN674BYOQEJG5HQSOSLWK2GQDF6A)
+
 ++++++++++++++++++++++++++++++++++++++++++++
 
 # Project Name
