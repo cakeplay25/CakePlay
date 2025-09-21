@@ -7,9 +7,13 @@ The goal of the project is to make logic games like Connect Four and Chess acces
 # Project Name
 
 The project is called CakePlay, as a reference to the project CakePay by CakeLabs, which is integrated as a feature in their CakeWallet.
+
 https://cakepay.com
+
 https://cakelabs.com
+
 https://cakewallet.com
+
 The greatest success would be if the finished product is also integrated as a feature in CakeWallet, in order to inspire more people to use CakeWallet through these games.
 
 ++++++++++++++++++++++++++++++++++++++++++++
@@ -55,13 +59,26 @@ Furthermore, there are open-source games that could serve as a starting point or
 The goal is to create a fully integrated ecosystem where players don’t need to juggle multiple apps, exchanges, or separate wallet addresses.
 Instead, their Cakeplay account is directly linked to their cryptocurrency wallet, just like how it works in CakeWallet when you buy crypto within the app via DFX.
 
-For this, it need a solution similar to WalletConnect or Lightning Login for Web3 wallets—something that’s fast, secure, and user-friendly.
+For this, it need a solution similar to WalletConnect or Lightning Login.
+
+https://walletconnect.network
+
+https://lightninglogin.live
+
+A practical feature would also be the integration of Unstoppable Domains, as this allows multiple wallet addresses to be linked to a single user account.
+
+https://unstoppabledomains.com
+
+Another important aspect would be an API from CakeWallet, enabling Cakeplay to communicate seamlessly with CakeWallet.
 
 # Automatic Payouts
 
 It needs to be a way to ensure that when a player wins, they get their earnings in real-time without the risk of fraud or manipulation.
 
-The ideal solution here is to implement a Smart Contract (using a network like Polygon or any other scalable, low-fee blockchain). Smart contracts would ensure that payouts are automatically triggered when the conditions of the game are met, and they would remove the risk of human error or bad actors.
+The ideal solution here is to implement a Smart Contract (using a network like Polygon or any other scalable, low-fee blockchain).
+Smart contracts would ensure that payouts are automatically triggered when the conditions of the game are met, and they would remove the risk of human error or bad actors.
+
+Perhaps, however, the principle could also be simplified by using Multi-Signatures through Bitcoin or Monero.
 
 # Multiplayer Mode
 
