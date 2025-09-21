@@ -45,14 +45,12 @@ I’ve already bought some ready-made games to experiment with the concept priva
 
 https://codecanyon.net/item/board-games-bundle/49405808
 
-Unfortunately, I can’t share those games publicly because of licensing restrictions, but they are available internally as reference material.
+Unfortunately, I can’t share those games publicly because of licensing restrictions, but they can be available internally as reference material.
 This way, developers working on Cakeplay can take inspiration from these examples.
 
 Furthermore, there are open-source games that could serve as a starting point or inspiration for Cakeplay, such as:
 
-...
-...
-...
+https://github.com/search?q=Connect+four&type=repositories
 
 # Wallet Integration
 
