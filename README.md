@@ -108,6 +108,9 @@ Feel free to help make the project a reality by donating cryptocurrency, which w
 Unstoppable Domain:
 cakeplay.xmr
 
+Fundraising:
+https://kuno.anne.media/fundraiser/pwew
+
 Clearweb:
 https://trocador.app/anonpay/?ticker_to=xmr&network_to=Mainnet&address=48of7ygJEgEPpKFvzdwCy8ityuWvnisK5cv2AK934sxkFtTMgfeyWLkHeZUTBchFKWUAjKuVaacjn4Us7muX3V5PPLmqx6a&donation=True&simple_mode=True&amount=0.0001&name=CakePlay&description=CakePlay&email=cakeplay@proton.me&ref=dGJiuTPgbo&bgcolor=00000000
 
