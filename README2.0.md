@@ -1,6 +1,6 @@
-# CakePlay
+# CryptoConnectFour
 
-The goal of the project is to make logic games like Connect Four and Chess accessible to players by allowing them to use cryptocurrency as a stake, with the winner of the game receiving this stake.
+The goal of the project is to make logic games like Connect Four accessible to players by allowing them to use cryptocurrency as a stake, with the winner of the game receiving this stake.
 
 ![Screenshot](https://raw.githubusercontent.com/cakeplay25/CakePlay/refs/heads/main/IMG_20250921_164710_865.jpg)
 
@@ -8,11 +8,13 @@ The goal of the project is to make logic games like Connect Four and Chess acces
 
 # Project Name
 
-The project is called CakePlay, as a reference to the project CakePay by CakeLabs, which is integrated as a feature in their CakeWallet.
+The original name of this project was CakePlay, intended as a friendly nod of appreciation to Cake Labs' project CakePay.
 
-https://github.com/cake-tech/cake_wallet
+However, it quickly became clear that some community members perceived it as an attempt to appropriate the Cake brand name.
 
-The greatest success would be if the finished product is also integrated as a feature in CakeWallet, in order to inspire more people to use CakeWallet through these games.
+To avoid any confusion or unintended association, the project has been renamed and, as with all changes, this has been openly communicated to keep the entire process transparent.
+
+This is how CryptoConnectFour was born.
 
 ++++++++++++++++++++++++++++++++++++++++++++
 
@@ -35,8 +37,6 @@ https://papergames.io
 They are funded through advertisements and have their own in-game currency.
 Replacing these in-game currencies with cryptocurrencies and establishing a seamless wallet integration would be a dream.
 
-This is primarily just the idea of one person who is enthusiastic about such games as well as about CakeWallet.
-
 I am not a developer but i am motivated to make this project become real, and GitHub is the first step.
 
 ++++++++++++++++++++++++++++++++++++++++++++
@@ -50,16 +50,16 @@ I’ve already bought some ready-made games to experiment with the concept priva
 https://codecanyon.net/item/board-games-bundle/49405808
 
 Unfortunately, I can’t share those games publicly because of licensing restrictions, but they can be available internally as reference material.
-This way, developers working on Cakeplay can take inspiration from these examples.
+This way, developers working on CryptoConnectFour can take inspiration from these examples.
 
-Furthermore, there are open-source games that could serve as a starting point or inspiration for Cakeplay, such as:
+Furthermore, there are open-source games that could serve as a starting point or inspiration for CryptoConnectFour, such as:
 
 https://github.com/search?q=Connect+four&type=repositories
 
 # Wallet Integration
 
 The goal is to create a fully integrated ecosystem where players don’t need to juggle multiple apps, exchanges, or separate wallet addresses.
-Instead, their Cakeplay account is directly linked to their cryptocurrency wallet, just like how it works in CakeWallet when you buy crypto within the app via DFX.
+Instead, their CryptoConnectFour account is directly linked to their cryptocurrency wallet, just like how it works in CakeWallet when you buy crypto within the app via DFX.
 
 For this, it need a solution similar to WalletConnect or Lightning Login.
 
@@ -71,7 +71,9 @@ A practical feature would also be the integration of Unstoppable Domains, as thi
 
 https://unstoppabledomains.com
 
-Another important aspect would be an API from CakeWallet, enabling Cakeplay to communicate seamlessly with CakeWallet.
+Another important aspect would be an API from CakeWallet, enabling CryptoConnectFour to communicate seamlessly with CakeWallet.
+
+These are just ideas for now and the exact implementation is still uncertain.
 
 # Automatic Payouts
 
@@ -91,14 +93,6 @@ This requires a server-side infrastructure with User accounts (Wallet Pseudonym)
 
 Synchronizing moves across devices so that players can compete without delay.
 
-# CakeWallet Integration
-
-The ultimate goal for Cakeplay is to integrate it seamlessly into the CakeWallet ecosystem.
-
-By reaching out to CakeLabs, I hope to explore the possibility of embedding Cakeplay directly within the CakeWallet app, allowing users to play their favorite games and earn rewards all while managing their crypto assets in one place.
-
-This integration would make Cakeplay not just another casual gaming platform—it would become a natural extension of CakeWallet, providing an even greater incentive for players to explore and engage with cryptocurrencies.
-
 ++++++++++++++++++++++++++++++++++++++++++++
 
 # Donation
@@ -107,9 +101,6 @@ Feel free to help make the project a reality by donating cryptocurrency, which w
 
 Unstoppable Domain:
 cakeplay.xmr
-
-Fundraising:
-https://kuno.anne.media/fundraiser/pwew
 
 Clearweb:
 https://trocador.app/anonpay/?ticker_to=xmr&network_to=Mainnet&address=48of7ygJEgEPpKFvzdwCy8ityuWvnisK5cv2AK934sxkFtTMgfeyWLkHeZUTBchFKWUAjKuVaacjn4Us7muX3V5PPLmqx6a&donation=True&simple_mode=True&amount=0.0001&name=CakePlay&description=CakePlay&email=cakeplay@proton.me&ref=dGJiuTPgbo&bgcolor=00000000
